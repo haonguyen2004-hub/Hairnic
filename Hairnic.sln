@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Hairnic", ".", "{A6D45FD8-D3DF-4C31-B8EE-4ABF86E5A857}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58554"
+		Debug.AspNetCompiler.PhysicalPath = "..\Hairnic\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58554\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58554"
+		Release.AspNetCompiler.PhysicalPath = "..\Hairnic\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58554\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58554"
+		SlnRelativePath = "..\Hairnic\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D45FD8-D3DF-4C31-B8EE-4ABF86E5A857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D45FD8-D3DF-4C31-B8EE-4ABF86E5A857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D332A66-5C27-4828-8268-2D708E395ADB}
+	EndGlobalSection
+EndGlobal
